@@ -1,3 +1,3 @@
 # hello-Varato
 This is for me to learn.
-Thanks to *Varato*
+Thanks to **Varato**
